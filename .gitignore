@@ -5,3 +5,4 @@ lib
 *.tgz
 package-lock.json
 .idea/
+*.iml
